@@ -4,5 +4,5 @@
 
 command : streamlit run app1.py
 
-use this command with cmd on in the project folder, and change the path of dataset accordingly.
+use this command with ternimal on in the project folder, and change the path of dataset accordingly.
 
